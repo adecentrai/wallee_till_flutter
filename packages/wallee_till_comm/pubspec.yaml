@@ -1,0 +1,11 @@
+name: wallee_till_comm
+description: Dart package that maintains the communication between Flutter and Wallee till Terminal communication
+publish_to: none
+
+environment:
+  sdk: ">=2.12.0-0 <3.0.0"
+
+dependencies:
+  graphql_flutter: ^5.0.0
+  stomp_dart_client: ^0.4.3
+  shared_preferences: ^2.0.7
